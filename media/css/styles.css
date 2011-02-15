@@ -1,0 +1,50 @@
+/*
+css
+*/
+
+html {
+	margin: 0 auto;
+    width: 900px;
+}	
+
+body {
+	margin: 0;
+	padding: 0;
+	font: .625em Georgia, Serif;
+	background-color: #EDE3D3;
+	color: #363636;
+	
+}
+
+#page {
+	margin: 0 auto;
+	padding: 20px 0 0 0;
+	width: 800px;
+	font-size: 1.2em;
+}
+
+
+h1{
+    font-size: 34px;
+	color: #021D46 ;
+	text-align: center;
+}	
+ 
+
+/*
+General
+*/
+
+img {
+	border: 0;
+	position: center ;
+	padding-left: 295px;
+}
+
+p {
+	font-size: 15px;
+}
+
+b {
+	color: #D6C08C;
+}	
